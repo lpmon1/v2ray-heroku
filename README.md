@@ -8,7 +8,7 @@
 
 **Heroku 的网络并不稳定，部署前请三思。**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Ligture/v2ray-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/lpmon1/v2ray-heroku)
 
 ## ENV 设定
 
